@@ -1,3 +1,3 @@
-Programme Guide
+Introducing the Web
 
-structure · philosophy · schedules · handbook
+html · css · layout · sites 
